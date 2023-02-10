@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "49d48511-7ab8-41c3-a6da-4329c8ab3672": {
+      "ProjectGuid": "49d48511-7ab8-41c3-a6da-4329c8ab3672",
+      "DisplayName": "MyBikesFactory.Business",
+      "ColorIndex": 0
+    },
+    "bc36d451-b0b4-4c96-a1dc-d6d7a9ae7690": {
+      "ProjectGuid": "bc36d451-b0b4-4c96-a1dc-d6d7a9ae7690",
+      "DisplayName": "MyBikesFactory.Data",
+      "ColorIndex": 1
+    },
+    "7faa8e02-214b-4c7b-8d95-9c3081c12832": {
+      "ProjectGuid": "7faa8e02-214b-4c7b-8d95-9c3081c12832",
+      "DisplayName": "LoginForm",
+      "ColorIndex": 2
+    },
+    "f2b380ba-23bf-4c9c-8785-3d068be88d14": {
+      "ProjectGuid": "f2b380ba-23bf-4c9c-8785-3d068be88d14",
+      "DisplayName": "MyBikesFactory.UI",
+      "ColorIndex": 3
+    },
+    "55b10626-5d87-42f3-ab08-7af62180908f": {
+      "ProjectGuid": "55b10626-5d87-42f3-ab08-7af62180908f",
+      "DisplayName": "MyBikesFactory.UI",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

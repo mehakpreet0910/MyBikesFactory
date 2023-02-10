@@ -1,0 +1,15 @@
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Data\bin\Debug\net6.0\MyBikesFactory.Data.deps.json
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Data\bin\Debug\net6.0\MyBikesFactory.Data.dll
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Data\bin\Debug\net6.0\ref\MyBikesFactory.Data.dll
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Data\bin\Debug\net6.0\MyBikesFactory.Data.pdb
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Data\bin\Debug\net6.0\MyBikesFactory.Business.dll
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Data\bin\Debug\net6.0\MyBikesFactory.Business.pdb
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.csproj.AssemblyReference.cache
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.AssemblyInfoInputs.cache
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.AssemblyInfo.cs
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.csproj.CoreCompileInputs.cache
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.csproj.CopyComplete
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.dll
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\ref\MyBikesFactory.Data.dll
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Data\obj\Debug\net6.0\MyBikesFactory.Data.pdb

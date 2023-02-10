@@ -1,0 +1,12 @@
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Business\bin\Debug\net6.0\MyBikesFactory.Business.deps.json
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Business\bin\Debug\net6.0\MyBikesFactory.Business.dll
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Business\bin\Debug\net6.0\ref\MyBikesFactory.Business.dll
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Business\bin\Debug\net6.0\MyBikesFactory.Business.pdb
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.csproj.AssemblyReference.cache
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.AssemblyInfoInputs.cache
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.AssemblyInfo.cs
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.csproj.CoreCompileInputs.cache
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.dll
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\ref\MyBikesFactory.Business.dll
+C:\Users\Amandeep\source\repos\MyBikesFactory\MyBikesFactory.Business\obj\Debug\net6.0\MyBikesFactory.Business.pdb
